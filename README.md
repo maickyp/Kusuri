@@ -11,6 +11,7 @@ This project was created for getting a degree in B.S. Communications and Electro
 This was made with other 2 persons seeking same degree.
 
 Orlando Alvarado - [GitHub][git1] - [Linkedin][linkedin1]
+
 Rafael Salcedo - [GitHub][git2] - [Linkedin][linkedin2]
 
 ## Technical Information
